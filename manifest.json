@@ -1,0 +1,11 @@
+{
+    "name": "Export Frame",
+    "id": "com.example.export-frame",
+    "api": "1.0.0",
+    "main": "dist/bundle.js",
+    "ui": "src/ui.html",
+    "editorType": [
+        "figma"
+      ]
+  }
+  
